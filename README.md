@@ -13,7 +13,7 @@ I am adapting the 100 days of code challenge:
 Youtube - C++ Tutorial | Data Structures & Algorithms
 <a HREF="https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ">Apna College</a>
 
-Youtube - C++ Tutorial (CodeWithHarry)
+Youtube - C++ Tutorial
 <a HREF="https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL">Code With Harry</a>
 
 Udacity C++ for Programmers
